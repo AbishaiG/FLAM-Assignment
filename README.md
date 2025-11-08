@@ -1,6 +1,6 @@
 # 🧮 Assignment: Research and Development / AI – Parametric Curve Fitting
 
-### **Author:** *Elizabeth (Student ID if required)*  
+### **Author:** *Abishai G*  
 ### **Course:** Research and Development / AI  
 ### **Institution:** *Amrita Vishwa Vidyapeetham*  
 ### **Date:** *November 2025*
