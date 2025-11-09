@@ -136,6 +136,6 @@ y(t) = 42 + t*sin(0.516317238) + e^(-0.05*abs(t))*sin(0.3*t)*cos(0.516317238)
 ## 🙏 Acknowledgement
 
 I sincerely thank **FLAM** for providing the assignment, which helped me strengthen my understanding of **parametric modeling, curve fitting, and optimization techniques**.  
-Special thanks to **OpenAI GPT-5** for assisting in numerical verification, code validation, and report formatting guidance and also helping in making an interactive Readme.md file.
+Special thanks to **OpenAI GPT-5** for assisting in providing the code, necessary calculaltions and numerical verification, and report formatting guidance and also helping in making an interactive Readme.md file.
 
 ---
